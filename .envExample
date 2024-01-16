@@ -1,0 +1,7 @@
+PORT=123
+USER=exampleUser
+PASSWORD=examplePassword
+DATABASE=exampleDatabaseName
+DB_PORT=1234
+HOST=localhost
+TOKEN_SECRET=exampleTokenSecret
